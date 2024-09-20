@@ -1,0 +1,46 @@
+# Pick And Place List
+# Company=
+# Author=
+# eMail=
+#
+# Project=PCB TT version 3.6
+# Date=09:58:00
+# CreatedBy=Fritzing 1.0.2b.2023-12-20.CD-1901-0-dbdbe34c
+#
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB
+# Rotation in degree (0-360, math. pos.)
+#
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+270pf,";;;;;;;;","cap-pth-small2",2316.38,1642.44,180,Top,SMT
+J1,";;;;;;;;","THT",222.273,2038.19,-90,Top,THT
+7805,";;;5V;;;;;","to-220-alt",4009.13,546.253,90,Top,THT
+470uF,";0.47mF;;20V;;;;;","100 mil [THT, electrolytic]",1262.35,1887.02,90,Top,THT
+Via4,";;;;;;;;","",1805.28,1477.86,0,Top,MANUAL
+J5,";;;;;;;;","THT",222.273,1538.19,-90,Top,THT
+DCC18vIn,";;;;;;;;","THT",2602.07,2154.21,-90,Top,THT
+J8,";;;;;;;;","THT",822.273,1538.19,-90,Top,THT
+6N137,";;;;;;;;","DIP (Dual Inline) [THT]",2177.75,849.223,90,Top,THT
+0.1,";;;;;;;;","cap-pth-small2",2510.81,277.924,90,Top,SMT
+Arduino Nano,";;;;;;;;","",971.938,838.191,90,Top,MANUAL
+J2,";;;;;;;;","THT",422.273,2038.19,-90,Top,THT
+J3,";;;;;;;;","THT",622.273,2038.19,-90,Top,THT
+NOT CONNECTED,";;;;;;;;","THT",622.273,1538.19,-90,Top,THT
+ 5V Hall Gnd,";;;;;;;;","THT",1812.38,2133.7,-90,Top,THT
+0.22,";0.22µF;;35V;;;;;","100 mil [THT, electrolytic]",3222.27,1038.19,0,Top,THT
+0.23,";22µF;;35V;;;;;","100 mil [THT, electrolytic]",2732.84,283.958,90,Top,THT
+Schottky,";;;;;;;;","300 mil [THT]",3392.56,1618.12,-90,Top,THT
+Via3,";;;;;;;;","",1746.65,801.86,0,Top,MANUAL
+0.1,";10nF;;35V;;;;;","100 mil [THT, electrolytic]",3272.27,488.191,90,Top,THT
+0.1,";;;;;;;;","cap-pth-small2",3222.27,738.191,0,Top,SMT
+5K,"1k;;;;;0.25W;;;","THT",2114.48,372.658,-90,Top,THT
+J6,";;;;;;;;","THT",422.273,1538.19,-90,Top,THT
+1.3K,"1k;;;;;0.25W;;;","THT",2756.37,1634.65,180,Top,THT
+Via2,";;;;;;;;","",3012.74,1472.05,0,Top,MANUAL
+10K,"1k;;;;;0.25W;;;","THT",2222.45,374.024,-90,Top,THT
+D1,";;;;;;;;","diode-1n4148",2216.02,1292.1,0,Top,SMT
+J4,";;;;;;;;","THT",822.273,2038.19,-90,Top,THT
+-12vIn+,";;;;;;;;","THT",3289.98,2154.21,-90,Top,THT
+0.1,";;;;;;;;","cap-pth-small2",2972.27,488.191,90,Top,SMT
